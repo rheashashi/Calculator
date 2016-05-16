@@ -1,0 +1,15 @@
+ .cal {
+    position: absolute;
+    background-color: #67615F;
+    padding: 5px;
+    text-align: center;
+}
+td, input {
+    cursor:pointer;
+}
+table {
+    width: 300px;
+}
+.answer {
+    background-color: white;
+}
